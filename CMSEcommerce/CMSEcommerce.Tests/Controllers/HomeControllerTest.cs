@@ -23,6 +23,8 @@ namespace CMSEcommerce.Tests.Controllers
 
             // Assert
             Assert.IsNotNull(result);
+            
+            //Added dev branch
         }
 
         [TestMethod]
