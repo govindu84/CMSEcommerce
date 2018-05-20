@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +17,7 @@ namespace CMSEcommerce.Tests.Controllers
         {
             // Arrange
             HomeController controller = new HomeController();
-
+//code added in github
             // Act
             ViewResult result = controller.Index() as ViewResult;
 
