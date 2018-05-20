@@ -17,8 +17,7 @@ namespace CMSEcommerce.Tests.Controllers
         {
             // Arrange
             HomeController controller = new HomeController();
-//code added in github
-//code added in VS
+
             // Act
             ViewResult result = controller.Index() as ViewResult;
 
