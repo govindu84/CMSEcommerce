@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSEcommerce", "CMSEcommerce\CMSEcommerce.csproj", "{DACC2606-3437-4043-BBE0-228F50BE1C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSEcommerce.Tests", "CMSEcommerce.Tests\CMSEcommerce.Tests.csproj", "{95B0A5E4-EC9A-4B67-9A3C-7AF66E826F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACC2606-3437-4043-BBE0-228F50BE1C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACC2606-3437-4043-BBE0-228F50BE1C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACC2606-3437-4043-BBE0-228F50BE1C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACC2606-3437-4043-BBE0-228F50BE1C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B0A5E4-EC9A-4B67-9A3C-7AF66E826F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B0A5E4-EC9A-4B67-9A3C-7AF66E826F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B0A5E4-EC9A-4B67-9A3C-7AF66E826F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B0A5E4-EC9A-4B67-9A3C-7AF66E826F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311A02EC-8AA3-4C15-85B1-2514BE630EF4}
+	EndGlobalSection
+EndGlobal
